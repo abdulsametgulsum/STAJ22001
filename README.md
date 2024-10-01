@@ -10,5 +10,4 @@ Bu proje, Vue.js tabanlı bir uygulama olup Axios ile veri çekme, child compone
 - **v-model ile İki Yönlü Veri Bağlama**: `v-model` ile form alanlarında iki yönlü veri bağlama (data binding) sağlandı.
 - **Analiz ve Tasarımlar**: Uygulamada çeşitli analizler ve tasarımlar mevcut. Kullanıcıların daha iyi bir deneyim yaşaması için detaylı grafikler ve şemalar kullanıldı.
 
-## Kurulum
 

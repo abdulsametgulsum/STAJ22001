@@ -1,4 +1,4 @@
-# Zorunlu Yaz Stajı Vue.js eğitimi
+# Zorunlu Yaz Stajı(STAJ22001) Vue.js eğitimi
 
 Bu proje, Vue.js tabanlı bir uygulama olup Axios ile veri çekme, child component (alt bileşen) direktifleri, form doğrulama ve `v-model` gibi Vue.js özelliklerini içerir. Proje, kullanıcı dostu bir arayüzle veri alışverişi sağlayan formlar ve analiz araçları sunar.
 
